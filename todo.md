@@ -10,10 +10,10 @@
 
 
 ### 客户端
-- [x] React
-    - React-router
+- [x] React + vite
+    - [x] React-router
     - Redux / Zustand
-    - React Query / SWR
+    - [x] axios + React Query
     - Jotai / Recoil
     - Framer Motion
     - React Spring

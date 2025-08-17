@@ -1,0 +1,18 @@
+{
+  "name": "tcu",
+  "version": "0.0.1",
+  "description": "技术社区平台。Technical Community United.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "tcu"
+  ],
+  "author": "can-dy-jack",
+  "license": "Apache-2.0",
+  "packageManager": "pnpm@10.6.5",
+  "workspaces": [
+    "client/*",
+    "server/*"
+  ]
+}
